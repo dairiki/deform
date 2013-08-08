@@ -21,6 +21,9 @@ Bug Fixes
   for a field in a sequence has no name. See
   https://github.com/Pylons/deform/issues/149
 
+- Avoid spontaneous DeprecationWarning when importing ``deform``. See
+  https://github.com/Pylons/deform/issues/175
+
 0.9.7 (2013-03-06)
 ------------------
 
